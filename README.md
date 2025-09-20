@@ -1,7 +1,7 @@
 # Textbit 🚀
 Turn your words into clear, concise masterpieces instantly. Hate clunky sentences and jargon? Textbit uses affordable AI to rewrite your content in active voice, shorter form, and simple words. It works great for emails, docs, and quick edits.
 
-https://github.com/user-attachments/assets/0fa7176b-5b3c-4344-a3a3-d466faebd0df
+https://github.com/user-attachments/assets/f0377b98-8d6f-4d37-a2b0-f86f2f0bb053
 
 ## ✨ Why You'll Love It
 - **Crystal Clear**: Removes passive voice and complexity
